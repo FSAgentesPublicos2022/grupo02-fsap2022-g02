@@ -1,0 +1,26 @@
+h1 { text-align: center;
+   color: blue; 
+}
+
+h2 { text-align: center;
+color:tomato;
+}
+
+p {
+    text-justify: auto;
+    text-align: center;
+}
+
+header { font-size: xx-large;
+   text-align: center;   
+    color: black;
+}
+
+body { background-color: aqua;}
+
+div { align-items: center;
+}
+
+H3{font-size:larger;
+}
+
